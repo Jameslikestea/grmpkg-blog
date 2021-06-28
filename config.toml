@@ -1,0 +1,19 @@
+baseURL = "http://example.org/"
+languageCode = "en-gb"
+title = "GRM Package"
+theme = "hugotex"
+
+summaryLength = 20
+paginate = 5
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+[author]
+  name = "James Crocker"
+  abstract = "I'm a software engineer with a speciality in cyber security."
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
